@@ -1,4 +1,4 @@
-# Reinforced Learning to Select for Weakly-supervised Paraphrase Generation (RLTS)
+# Learning to Selectively Learn for Weakly-supervised Paraphrase Generation
 
 This is the code and data for ACL2021 submission.
 
